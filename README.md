@@ -1,5 +1,10 @@
 # 📊 Superstore Sales Performance Dashboard (Power BI)
 
+![Power BI](https://img.shields.io/badge/Tool-Power_BI-yellowgreen?logo=powerbi)
+![Data](https://img.shields.io/badge/Data-Kaggle-blue?logo=kaggle)
+![Status](https://img.shields.io/badge/Status-Complete-green)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
 This project is a comprehensive analysis of the Superstore dataset, built entirely in Power BI. It tracks key performance indicators (KPIs) including sales, orders, and customer trends across different segments, regions, and categories.
 
 ---
